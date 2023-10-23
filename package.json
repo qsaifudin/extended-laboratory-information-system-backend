@@ -1,11 +1,11 @@
 {
-  "name": "SIM-LAB-MAGANG",
+  "name": "extended-laboratory-information-system-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
-    "gass": "nodemon server.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
