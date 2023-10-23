@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "lims_adamlabs",
+    "host": "192.168.100.50",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "lims_adamlabs",
+    "host": "192.168.100.50",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "lims_adamlabs",
+    "host": "192.168.100.50",
+    "dialect": "postgres"
+  }
+}
